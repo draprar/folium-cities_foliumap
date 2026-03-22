@@ -1,2 +1,10 @@
 /visits.db
+/visits_map.html
 /.venv/
+
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.idea/
+
