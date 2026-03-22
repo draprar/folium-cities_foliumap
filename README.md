@@ -1,4 +1,6 @@
-# Folium Cities - Clean-Lite Architecture
+# Folium Cities
+
+![Screenshot](img/ss.png)
 
 This project generates an HTML map of Polish cities visited by users,
 using SQLite for storage and Folium for rendering.
